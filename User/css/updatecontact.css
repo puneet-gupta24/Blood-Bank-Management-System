@@ -1,0 +1,51 @@
+#full{
+width: auto;
+height: auto;
+}
+#inner_full{
+width: auto;
+height: auto;
+margin: auto;
+}
+#header {
+width: auto;
+height: 50px;
+background-color: #bf222b;
+color: white;
+}
+#body{
+width: 100%;
+height: 650px;
+background-color: #DBF9FC;
+}
+#footer {
+width: auto;
+margin-top: 320px;
+height: 60px;
+background-color: #bf222b;
+color: white;
+}
+ul li {
+width: 20%;
+height: 50px;
+line-height: 50px;
+margin-left: 55px;
+background: red;
+color: white;
+float: left;
+border-radius: 10px;
+list-style: none;
+text-align: center;
+}
+ul li a{
+text-decoration: none;
+color: white;
+}
+#form{
+width: 30%;
+height: 200px;
+background-color:#f7bf47;
+color: none;
+border-radius: 1px;
+
+}
